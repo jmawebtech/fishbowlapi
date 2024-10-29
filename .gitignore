@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/.vs/FishbowlInventory
+/src/examples/Fishbowl.Client
+/src/FishbowlInventory.core/bin/Debug/net7.0
+/src/FishbowlInventory.core/obj
+/src/FishbowlInventory.net/bin/Debug/net7.0
+/src/FishbowlInventory.net/obj
