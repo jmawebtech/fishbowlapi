@@ -9,7 +9,7 @@ Yes, we can integrate Fishbowl or any other back office system. Reach out to us 
 
 Fishbowl Inventory is a desktop software. Although they have a REST API, you must create a console application and place it on the server where Fishbowl resides. The console app must to talk to your server to download orders, translate those orders into a CSV file and send requests to Fishbowl.
 
-## Where is the REST API docs?
+## Where are the REST API docs?
 
 Here are the docs: https://fishbowlhelp.com/files/apidocs/introduction.html
 
